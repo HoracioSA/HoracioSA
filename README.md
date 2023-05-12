@@ -1,6 +1,6 @@
 **👋 Hello World, I'm Horacio!  
 
-I'm a **Front-end** & **Back-end** Developer. I'm from **Angola**, now living in **Ukraine** in **Dnipro** city, I've been studing **Computer Science** 💚, I'm **28** years old 👶🏻 and I've been coding for **8** years 🧐.
+I'm a **Front-end** & **Back-end** Developer. I'm from **Angola**, now living in **Portugal** in **Lisbon** city, I've been studing **Computer Science** 💚, I'm **30** years old 👶🏻 and I've been coding for **8** years 🧐.
 
 A book lover 📕, an aspiring musician 🎸 and gym.
 **
